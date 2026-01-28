@@ -5,7 +5,7 @@ CMPUT301 team project.
 
 ## Team Members
 - Kenneth Joseph
-- Name 2
+- Fawaz Mansoor
 - Name 3
 
 ## Setup
