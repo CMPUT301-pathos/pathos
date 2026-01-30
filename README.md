@@ -7,6 +7,6 @@ CMPUT301 team project.
 - Kenneth Joseph(kmjosep1)
 - Fawaz Mansoor
 - Heorhii Litvinov
-- Name 3
+- Edwin Davod (esdavid)
 
 ## Setup
