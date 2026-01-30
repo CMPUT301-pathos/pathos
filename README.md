@@ -8,5 +8,6 @@ CMPUT301 team project.
 - Fawaz Mansoor
 - Heorhii Litvinov
 - Edwin Davod (esdavid)
+- Hasrat Singh Chauhan (Hasratsi) 
 
 ## Setup
