@@ -7,7 +7,7 @@ CMPUT301 team project.
 - Kenneth Joseph(kmjosep1)
 - Fawaz Mansoor
 - Heorhii Litvinov
-- Edwin Davod (esdavid)
+- Edwin David (esdavid)
 - Hasrat Singh Chauhan (Hasratsi) 
 - Dmitriy Limanets (limanets)
 
